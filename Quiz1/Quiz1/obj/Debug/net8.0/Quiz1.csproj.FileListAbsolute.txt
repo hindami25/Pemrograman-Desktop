@@ -1,0 +1,14 @@
+D:\Project\Desktop Programming\Quiz1\Quiz1\bin\Debug\net8.0\Quiz1.exe
+D:\Project\Desktop Programming\Quiz1\Quiz1\bin\Debug\net8.0\Quiz1.deps.json
+D:\Project\Desktop Programming\Quiz1\Quiz1\bin\Debug\net8.0\Quiz1.runtimeconfig.json
+D:\Project\Desktop Programming\Quiz1\Quiz1\bin\Debug\net8.0\Quiz1.dll
+D:\Project\Desktop Programming\Quiz1\Quiz1\bin\Debug\net8.0\Quiz1.pdb
+D:\Project\Desktop Programming\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Desktop Programming\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.AssemblyInfoInputs.cache
+D:\Project\Desktop Programming\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.AssemblyInfo.cs
+D:\Project\Desktop Programming\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.csproj.CoreCompileInputs.cache
+D:\Project\Desktop Programming\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.dll
+D:\Project\Desktop Programming\Quiz1\Quiz1\obj\Debug\net8.0\refint\Quiz1.dll
+D:\Project\Desktop Programming\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.pdb
+D:\Project\Desktop Programming\Quiz1\Quiz1\obj\Debug\net8.0\Quiz1.genruntimeconfig.cache
+D:\Project\Desktop Programming\Quiz1\Quiz1\obj\Debug\net8.0\ref\Quiz1.dll
